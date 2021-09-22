@@ -5,4 +5,6 @@ All samples are made by simple and short codes.
 
 Netflix/Google/Instagram/YouTube/Facebook/Pepsi/Nike..etc
 
-See **[DEMO](https://github.com/exis9/LOGOS)**
+See **[DEMO](https://exis9.github.com/LOGOS)**
+
+See **[Source Code](https://github.com/exis9/LOGOS)**
