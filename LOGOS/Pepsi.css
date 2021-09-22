@@ -1,0 +1,34 @@
+
+.logo{
+	margin: 30px;
+	border-radius: 50%;
+	background: #34588e;
+	border: 10px solid #fff;
+	height: 300px;
+	width: 300px;
+	overflow: hidden;
+	position: relative;
+}
+
+.logo::before{
+	content:"";
+	border-radius: 25%;
+	background: #fff;
+	height: 400px;
+	width: 500px;
+	position: absolute;
+	top: -170px;
+	left: -240px;
+	transform: rotate(-15deg);
+}
+  
+.logo::after{
+	content: "";
+	border-radius: 50%;
+	background: #da473c;
+	height: 500px;
+	width: 550px;
+	top: -275px;
+	left: -300px;
+	position: absolute;
+}
