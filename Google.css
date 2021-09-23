@@ -20,14 +20,3 @@
 	height: 50px;
 	background: #4285f4;
 }
-  
-.logo::after{
-	content:"";
-	position: absolute;
-	border-top: 100px solid transparent;
-	border-right: 100px solid #fff;
-	top: -50px;
-	left: 100px;
-	width: 0;
-	height: 0;
-}

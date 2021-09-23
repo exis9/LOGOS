@@ -24,7 +24,7 @@
 	align-items:center;
 }
 
-.logo div::before{
+.logo div::before {
 	content:"";
 	position: absolute;
 	height: 100px;
@@ -34,7 +34,7 @@
 	border: 20px solid #fff;
 }
 
-.logo div::after{
+.logo div::after {
 	content:"";
 	position: absolute;
 	height: 1px;

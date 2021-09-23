@@ -19,7 +19,7 @@
 	display: block;
 	position: absolute;
 }
-  
+
 .logo::before{
 	width: 50px;
 	height: 250px;
